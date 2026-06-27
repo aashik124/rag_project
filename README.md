@@ -36,7 +36,7 @@ pip install -r requirements.txt
 copy .env.example .env
 ```
 
-Edit `.env` with your Gemini API keys and service URLs.
+Edit `.env` with your Gemini API key and service URLs.
 
 ## Run
 
